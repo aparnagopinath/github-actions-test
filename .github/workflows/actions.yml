@@ -12,6 +12,12 @@ jobs:
         run: |
           pwd
           ls -a
+          echo $GITHUB_SHA
+          echo $GITHUB_REPORSITORY
+          echo $GITHUB_WORKFLOW
+          echo "${{ github.token }}"
+          # git clone git@github:$GITHUB_REPORSITORY
+          # git checkout $GITHUB_SHA 
       - name: List Files After Checkout
         run: |
           pwd
