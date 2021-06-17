@@ -1,0 +1,22 @@
+name: Aparna
+age: 10
+address: "205:hrbr hills"
+active: true
+key: 
+    key1: value
+    key2: 33
+    key3:
+        key31: hbsdcb
+        key32: 132
+jsonObject: {key: value, key2: 33, key3: {key31: hdbch, key32: 132}}
+array:
+    -item1
+    -item2
+    -{key: value}
+jsonArray: [item1, item2]
+objectsArr:
+    -key: value
+     key2: value2
+    -key1: value1
+     key3: value3
+longText: ajhsfcdsducfhsdiuhsdnvckjsdnvkjndskjvnkjdsnvjkdsnvkjndskvndmsacsdvnsdvndsknvkldsnvklnsdvklndslkvndlsknvoihsdiuvdsvb sdvhiusdvjbdsjvbdsivbdsjbnvkdsbv 
